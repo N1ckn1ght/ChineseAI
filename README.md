@@ -7,3 +7,11 @@
 Скачать модель и веса можно здесь: https://disk.yandex.ru/d/gzwMYqiijKSzeg
 
 <img src="https://i.imgur.com/LZCgbm2.png">
+
+Положительные примеры работы:
+
+<img src="https://i.imgur.com/xJsc8yv.png">
+
+Иногда путается, в основном 2 и 3:
+
+<img src="https://i.imgur.com/T8Z04BK.png">
